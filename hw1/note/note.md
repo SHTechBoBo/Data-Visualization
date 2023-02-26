@@ -10,7 +10,7 @@ html link: https://data-visualization-production.up.railway.app/hw1/html/hw1-1.h
 
 I created a **line chart** to present average temperature between 1951-1980 more intuitively. On the vertical axis, I took the maximum and minimum temperature plus or minus 0.5 degrees to make the curve look fuller.
 
-![image-20230226150743737](C:\Users\啵啵\AppData\Roaming\Typora\typora-user-images\image-20230226150743737.png)
+![1-1](1-1.png)
 
 ## 1-2
 
@@ -18,4 +18,4 @@ html link: https://data-visualization-production.up.railway.app/hw1/html/hw1-2.h
 
 I created a **heatmap** to present the absolute temperature values from 1850-2022. By calculating the minimum and maximum temperatures in these time periods, map them to zero to one to show the corresponding colors. Because there are so many years, the year information will only be displayed on the left side when the mouse moves over the corresponding box. Also, there's a bottom legend shows the relationship between temperature and color.
 
-![image-20230226150648319](C:\Users\啵啵\AppData\Roaming\Typora\typora-user-images\image-20230226150648319.png)
+![1-2](1-2.png)
