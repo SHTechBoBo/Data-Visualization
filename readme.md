@@ -12,4 +12,8 @@ If you have any other questions, please contact yhwbobo@qq.com or yehw@shanghait
 
 1-1: https://data-visualization-production.up.railway.app/hw1/html/hw1-1.html
 
+![1-1](/hw1/note/1-1.png)
+
 1-2: https://data-visualization-production.up.railway.app/hw1/html/hw1-2.html
+
+![1-1](/hw1/note/1-2.png)
