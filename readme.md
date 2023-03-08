@@ -1,6 +1,6 @@
 # Data Visualization
 
-This repository is based on `ARTS1422` , and you can view the final effects follow the links.
+This repository is based on `ARTS1422` in Shanghai Tech University.
 
 The source code won't be uploaded until the deadline finishes, please pay attention to academic integrity. 
 
