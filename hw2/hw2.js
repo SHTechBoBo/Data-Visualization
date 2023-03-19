@@ -95,4 +95,4 @@ setTimeout(function() {
         .on("mouseover", selected)
         .on("mouseleave", unselected);
     console.log(circles)
-}, 1000);
+}, 3000);
